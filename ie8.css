@@ -1,0 +1,64 @@
+#mhide {
+	display:none\9;
+}
+
+#sidebar {
+display:none\9;
+}
+
+.sidebar{
+display:none\9;
+}
+
+
+#box {
+	background-color:#ffffff;
+	width:960px\9;
+	max-width:100%\9;
+	float:left\9;
+	position: relative\9;
+	margin:0 auto 0 auto\9;
+}
+
+#menu{
+	clear: both\9;
+	background: #588dca\9;
+	width:960px\9;
+	max-width:100%\9;
+	height:50px\9;
+	text-align: left\9;
+	left:50%\9;
+	font-weight: bold\9;
+	margin: 0 auto 0 auto\9;
+	border-top-left-radius: 25px\9;
+	border-top-right-radius: 25px\9;
+    }
+
+
+
+#slides .prev {
+display:none\9;
+
+	}
+
+#slides .next {
+display:none\9;
+
+	}
+
+
+#slides {
+visibility:hidden\9;
+height:0px\9;
+	}
+
+.header{
+	position:relative\9;
+	width:181px\9;
+	height:180px\9;
+	margin:1% auto 1% auto\9;
+}
+
+.header h1 {
+	display:none\9;
+}
