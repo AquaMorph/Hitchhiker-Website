@@ -14,3 +14,4 @@
 [18-Feb-2014 09:27:17] PHP Fatal error:  Call to undefined function  bloginfo() in /home/thehitch/public_html/wp-content/themes/The-Hitchhikers/index.php on line 7
 [18-Feb-2014 09:27:18] PHP Fatal error:  Call to undefined function  bloginfo() in /home/thehitch/public_html/wp-content/themes/The-Hitchhikers/index.php on line 7
 [22-Feb-2014 18:03:48] PHP Fatal error:  Call to undefined function  bloginfo() in /home/thehitch/public_html/wp-content/themes/The-Hitchhikers/index.php on line 7
+[13-May-2014 17:44:59 America/New_York] PHP Fatal error:  Call to undefined function bloginfo() in /home/aquamorp/public_html/hitchhikers/wp-content/themes/The-Hitchhikers/index.php on line 7
