@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width">
 	<meta name="generator" content="WordPress <?php bloginfo('version'); ?>" /> <!-- leave this for stats please -->
 	<link rel="icon" type="image/png" href="<?php bloginfo('template_url'); ?>/favicon.png" />
-	<link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/css/style.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>" type="text/css" media="screen" />
 	<!--<![if lt IE 9]>
 	<link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/ie8.css" type="text/css" media="screen" />
 	<![endif]>-->
